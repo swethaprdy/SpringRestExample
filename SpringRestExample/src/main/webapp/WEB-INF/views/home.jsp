@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hello world! just to check the changes in git  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
